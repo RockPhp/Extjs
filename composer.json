@@ -1,0 +1,11 @@
+{
+    "name": "rock/extjs",
+    "description": "Extjs 5.1 minimalist",
+    "license": "GPL3",
+    "authors": [
+        {
+            "name": "Andre Nils",
+            "email": "nilzao@gmail.com"
+        }
+    ]
+}
