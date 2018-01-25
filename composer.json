@@ -1,7 +1,7 @@
 {
     "name": "rock/extjs",
     "description": "Extjs 5.1 minimalist",
-    "license": "GPL3",
+    "license": "GPL-3.0-only",
     "authors": [
         {
             "name": "Andre Nils",
